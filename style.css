@@ -103,7 +103,7 @@ header {
 
 /* ---------------------------sec1----------------------------------- */
 .section1-wrap {
-    background-image: url(./images/Rectangle\ 8.png);
+    background-image: url(images/Rectangle\ 8.png);
     width: 100%;
     height: 900px;
     /* gap: 92px; */
@@ -301,7 +301,7 @@ input {
 .sec3-wrap {
     width: 100%;
     height: 408px;
-    background-image: url(/images/6.png);
+    background-image: url(images/6.png);
 }
 
 .sec3-h2 h2 {
