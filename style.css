@@ -103,7 +103,7 @@ header {
 
 /* ---------------------------sec1----------------------------------- */
 .section1-wrap {
-    background-image: url(/images/Rectangle\ 8.png);
+    background-image: url(./images/Rectangle\ 8.png);
     width: 100%;
     height: 900px;
     /* gap: 92px; */
